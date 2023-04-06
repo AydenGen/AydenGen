@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayden</h1>
 <h3 align="center">学习和贡献代码，提高自己的编程能力。</h3>
 
-- 📝 I regularly write articles on [aydengen.com](aydengen.com)
+- 📝 I regularly write articles on [aydengen.com](https://www.aydengen.com)
 
 - 💬 Ask me about **React, Vue**
 
